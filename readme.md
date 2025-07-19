@@ -1,5 +1,9 @@
 # Mango Image Classification Using Handcrafted Feature Extraction and Random Forest Classifier
 
+
+https://medium.com/@aishikpaul2004/mango-ripeness-classification-a-hardware-friendly-approach-using-ml-f23d5f45f1f3
+
+
 ## Overview
 
 This project implements a complete pipeline for **classifying mango images** using a wide range of **handcrafted features** derived from color, texture, and shape information. The classification is performed using a **Random Forest Classifier**, and the approach is fully interpretable and lightweight.
