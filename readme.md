@@ -78,7 +78,7 @@ Each subfolder represents a mango class (e.g., *ripe*, *unripe*, *diseased*), co
 ## Results
 
 
-> Accuracy: 91.87%
+> Accuracy: 90.26%
 
 ---
 
